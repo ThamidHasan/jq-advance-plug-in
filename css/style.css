@@ -1,0 +1,10 @@
+.counter{
+	text-align: center;
+	background-color: blue;
+	color: #fff;
+	padding: 15px;
+}
+.parallax-window {
+	min-height: 400px;
+	background: transparent;
+}
